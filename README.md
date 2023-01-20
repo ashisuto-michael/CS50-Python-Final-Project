@@ -6,4 +6,4 @@
     3. "Customers" would then select differnt options each time to carry out certain actions.
     4. A total of 4 options are given (ordering food, booking rooms, calling for hotel service, and termination).
     5. Each function is accompanied with a specific unit test to ensure it runs error-free with all possible inputs.
-    6. To keep the program simple, only addition of rooms are allowe.
+    6. To keep the program simple, only addition of rooms are allowed.
