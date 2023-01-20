@@ -1,5 +1,5 @@
 # SIMPLE HOTEL MANAGEMENT SYSTEM
-    #### Video Demo:  <URL HERE>
+    #### Video Demo:  https://youtu.be/OlXWzku4ZKQ
     #### Description:
     1. A simple hotel management system for beginners to have fun with!
     2. The program starts by prompting the user to initialise the number of vacant rooms in the hotel.
